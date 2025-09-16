@@ -1,6 +1,5 @@
 """
-Q1.Develop a Python program that generates a 2-D array and executes the following operations on its
-elements:
+Q1.Develop a Python program that generates a 2-D array and executes the following operations on its elements:
 🔹Determine the number of elements in each dimension.
 🔹Identify the Data type of the matrix
 🔹Determine the dimension of the matrix
