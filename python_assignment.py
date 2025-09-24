@@ -1,3 +1,5 @@
+import numpy as np
+
 def separator():
     print("\n---------------------------------------------------------------------------------------------------------------------")
 
@@ -215,15 +217,24 @@ def program_8():
     
     separator()
 
+def cp2():
+    
+    npStr_ascii = np.array([('Alice'), ('Bob')], dtype=[('name', 'S10')])
+    npStr_unicode = np.array([('Alice'), ('Bob')], dtype=[('name', 'U10')])
+    print(npStr_ascii.itemsize, npStr_ascii.nbytes)
+    print(npStr_unicode.itemsize, npStr_unicode.nbytes)
+    
+    nums = [1,2,3,4,5]
+    arr = [x*2 for x in nums]
+    print(arr)
 
-program_1()
-program_2()
-program_3()
-program_4()
-program_5()
-program_6()
-program_7()
-program_8()
+# program_1()
+# program_2()
+# program_3()
+# program_4()
+# program_5()
+# program_6()
+# program_7()
+# program_8()
 
-
-
+cp2()
