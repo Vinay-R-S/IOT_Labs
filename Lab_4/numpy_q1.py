@@ -30,9 +30,14 @@ Q1.Develop a Python program that generates a 2-D array and executes the followin
 """
 
 import numpy as np
+import time
 
 def space():
     print("\n")
+    
+# --- NumPy Execution Start ---
+print("--- NumPy Operations ---")
+numpy_start_time = time.time()
 
 # Creating a 2D array
 arr = np.array([[4,6,2],[7,2,8],[1,5,8]])
@@ -52,7 +57,15 @@ print(f"Dimension of the Matrix: {np.shape(arr)}")
 space()
 
 # Compute inverse and transpose of the matrix
-print(f"Inverse of matrix arr: \n{np.invert(arr)} \nTranspose of matrix arr: \n{np.transpose(arr)}")
+# Note: np.invert is for bitwise NOT. Using np.linalg.inv for mathematical inverse.
+try:
+    inverse_mat = np.linalg.inv(arr)
+    print(f"Inverse of matrix arr: \n{inverse_mat}")
+except np.linalg.LinAlgError:
+    print("Inverse could not be computed (Singular Matrix)")
+
+transpose_mat = np.transpose(arr)
+print(f"Transpose of matrix arr: \n{transpose_mat}")
 space()
 
 # Determine eigen and determinant values
@@ -182,3 +195,8 @@ arrange_arr = np.arange(1, 10, 2)
 linespace_arr = np.linspace(1, 2, 5)
 print(f"The arranged array: {arrange_arr}\n The linespaced array: {linespace_arr}")
 space()
+
+numpy_end_time = time.time()
+numpy_execution_time = numpy_end_time - numpy_start_time
+print(f"--- NumPy Execution Time: {numpy_execution_time:.6f} seconds ---")
+print("-" * 50)

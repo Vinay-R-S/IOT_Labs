@@ -1,4 +1,8 @@
 import numpy as np
+import time
+
+print("\n--- NumPy Operations with Execution Time (Q5, Q6, Q7) ---")
+numpy_start_time = time.time()
 
 """
 Q5. Implement a NumPy program to flatten a 3D array into 1D.
@@ -53,3 +57,9 @@ try:
     print("\nThis will fail:\n", a + b)
 except ValueError as e:
     print("\nBroadcasting Error Example:", e)
+
+
+numpy_end_time = time.time()
+numpy_execution_time = numpy_end_time - numpy_start_time
+print(f"\n--- NumPy Execution Time: {numpy_execution_time:.6f} seconds ---")
+print("-" * 50)
