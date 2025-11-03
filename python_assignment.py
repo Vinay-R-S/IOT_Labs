@@ -228,13 +228,13 @@ def cp2():
     arr = [x*2 for x in nums]
     print(arr)
 
-# program_1()
-# program_2()
-# program_3()
-# program_4()
-# program_5()
-# program_6()
-# program_7()
-# program_8()
+program_1()
+program_2()
+program_3()
+program_4()
+program_5()
+program_6()
+program_7()
+program_8()
 
-cp2()
+# cp2()

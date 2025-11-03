@@ -1,0 +1,234 @@
+----------------------------------------------------------------------------------------
+Linear Equation Output
+----------------------------------------------------------------------------------------
+Shape of x, y, and loss_val: (120,) (120,) ()
+Epoch 0: Current loss = 666.90234375
+Epoch 1: Current loss = 10.375476837158203
+Epoch 2: Current loss = 5.122740745544434
+Epoch 3: Current loss = 4.621212959289551
+Epoch 4: Current loss = 4.1974382400512695
+Epoch 5: Current loss = 3.81359601020813
+Epoch 6: Current loss = 3.465724468231201
+Epoch 7: Current loss = 3.1504509449005127
+Epoch 8: Current loss = 2.864720344543457
+Epoch 9: Current loss = 2.605764627456665
+Epoch 10: Current loss = 2.3710744380950928
+Epoch 11: Current loss = 2.158376455307007
+Epoch 12: Current loss = 1.9656102657318115
+Epoch 13: Current loss = 1.7909071445465088
+Epoch 14: Current loss = 1.6325749158859253
+Epoch 15: Current loss = 1.4890793561935425
+Epoch 16: Current loss = 1.3590304851531982
+Epoch 17: Current loss = 1.2411679029464722
+Epoch 18: Current loss = 1.1343498229980469
+Epoch 19: Current loss = 1.0375415086746216
+Epoch 20: Current loss = 0.9498045444488525
+Epoch 21: Current loss = 0.8702890872955322
+Epoch 22: Current loss = 0.7982248663902283
+Epoch 23: Current loss = 0.732913613319397
+Epoch 24: Current loss = 0.6737222075462341
+Epoch 25: Current loss = 0.6200776696205139
+Epoch 26: Current loss = 0.5714598298072815
+Epoch 27: Current loss = 0.5273977518081665
+Epoch 28: Current loss = 0.4874647259712219
+Epoch 29: Current loss = 0.451273649930954
+Epoch 30: Current loss = 0.41847386956214905
+Epoch 31: Current loss = 0.3887476921081543
+Epoch 32: Current loss = 0.3618070185184479
+Epoch 33: Current loss = 0.33739084005355835
+Epoch 34: Current loss = 0.31526273488998413
+Epoch 35: Current loss = 0.29520806670188904
+Epoch 36: Current loss = 0.277032732963562
+Epoch 37: Current loss = 0.2605605721473694
+Epoch 38: Current loss = 0.24563191831111908
+Epoch 39: Current loss = 0.2321021556854248
+Epoch 40: Current loss = 0.21984021365642548
+Epoch 41: Current loss = 0.20872735977172852
+Epoch 42: Current loss = 0.19865581393241882
+Epoch 43: Current loss = 0.18952804803848267
+Epoch 44: Current loss = 0.18125559389591217
+Epoch 45: Current loss = 0.1737583428621292
+Epoch 46: Current loss = 0.1669636070728302
+Epoch 47: Current loss = 0.1608056277036667
+Epoch 48: Current loss = 0.15522466599941254
+Epoch 49: Current loss = 0.15016669034957886
+Epoch 50: Current loss = 0.1455826461315155
+Epoch 51: Current loss = 0.14142820239067078
+Epoch 52: Current loss = 0.13766303658485413
+Epoch 53: Current loss = 0.134250670671463
+Epoch 54: Current loss = 0.13115808367729187
+Epoch 55: Current loss = 0.12835530936717987
+Epoch 56: Current loss = 0.12581518292427063
+Epoch 57: Current loss = 0.12351305037736893
+Epoch 58: Current loss = 0.12142664939165115
+Epoch 59: Current loss = 0.11953572928905487
+Epoch 60: Current loss = 0.11782205104827881
+Epoch 61: Current loss = 0.11626892536878586
+Epoch 62: Current loss = 0.11486133933067322
+Epoch 63: Current loss = 0.11358566582202911
+Epoch 64: Current loss = 0.11242953687906265
+Epoch 65: Current loss = 0.11138173937797546
+Epoch 66: Current loss = 0.11043214052915573
+Epoch 67: Current loss = 0.10957150161266327
+Epoch 68: Current loss = 0.10879150778055191
+Epoch 69: Current loss = 0.10808462649583817
+Epoch 70: Current loss = 0.10744395107030869
+Epoch 71: Current loss = 0.1068633496761322
+Epoch 72: Current loss = 0.10633713752031326
+Epoch 73: Current loss = 0.10586023330688477
+Epoch 74: Current loss = 0.10542801767587662
+Epoch 75: Current loss = 0.10503632575273514
+Epoch 76: Current loss = 0.10468132048845291
+Epoch 77: Current loss = 0.10435958206653595
+Epoch 78: Current loss = 0.10406798869371414
+Epoch 79: Current loss = 0.10380371659994125
+Epoch 80: Current loss = 0.10356419533491135
+Epoch 81: Current loss = 0.10334713011980057
+Epoch 82: Current loss = 0.10315043479204178
+Epoch 83: Current loss = 0.1029721274971962
+Epoch 84: Current loss = 0.1028105765581131
+Epoch 85: Current loss = 0.10266412049531937
+Epoch 86: Current loss = 0.10253140330314636
+Epoch 87: Current loss = 0.10241112858057022
+Epoch 88: Current loss = 0.10230210423469543
+Epoch 89: Current loss = 0.10220333188772202
+Epoch 90: Current loss = 0.10211379081010818
+Epoch 91: Current loss = 0.10203264653682709
+Epoch 92: Current loss = 0.10195910930633545
+Epoch 93: Current loss = 0.10189244151115417
+Epoch 94: Current loss = 0.10183202475309372
+Epoch 95: Current loss = 0.10177729278802872
+Epoch 96: Current loss = 0.101727694272995
+Epoch 97: Current loss = 0.10168271511793137
+Epoch 98: Current loss = 0.101641945540905
+Epoch 99: Current loss = 0.10160503536462784
+Epoch 100: Current loss = 0.10157156735658646
+Epoch 101: Current loss = 0.10154123604297638
+Epoch 102: Current loss = 0.10151373594999313
+Epoch 103: Current loss = 0.10148880630731583
+Epoch 104: Current loss = 0.10146623104810715
+Epoch 105: Current loss = 0.1014457643032074
+Epoch 106: Current loss = 0.10142722725868225
+Epoch 107: Current loss = 0.1014104038476944
+Epoch 108: Current loss = 0.10139516741037369
+Epoch 109: Current loss = 0.10138136893510818
+Epoch 110: Current loss = 0.10136883705854416
+Epoch 111: Current loss = 0.10135750472545624
+Epoch 112: Current loss = 0.10134723037481308
+Epoch 113: Current loss = 0.10133790969848633
+Epoch 114: Current loss = 0.10132948309183121
+Epoch 115: Current loss = 0.10132181644439697
+Epoch 116: Current loss = 0.10131488740444183
+Epoch 117: Current loss = 0.10130861401557922
+Epoch 118: Current loss = 0.10130290687084198
+Epoch 119: Current loss = 0.10129775106906891
+Epoch 120: Current loss = 0.10129307210445404
+Epoch 121: Current loss = 0.10128883272409439
+Epoch 122: Current loss = 0.10128498077392578
+Epoch 123: Current loss = 0.10128151625394821
+Epoch 124: Current loss = 0.10127834230661392
+Epoch 125: Current loss = 0.1012754887342453
+Epoch 126: Current loss = 0.10127290338277817
+Epoch 127: Current loss = 0.10127054154872894
+Epoch 128: Current loss = 0.10126841813325882
+Epoch 129: Current loss = 0.10126649588346481
+Epoch 130: Current loss = 0.10126473754644394
+Epoch 131: Current loss = 0.1012631431221962
+Epoch 132: Current loss = 0.10126172751188278
+Epoch 133: Current loss = 0.10126040875911713
+Epoch 134: Current loss = 0.101259246468544
+Epoch 135: Current loss = 0.10125816613435745
+Epoch 136: Current loss = 0.10125720500946045
+Epoch 137: Current loss = 0.1012563407421112
+Epoch 138: Current loss = 0.10125551372766495
+Epoch 139: Current loss = 0.10125479847192764
+Epoch 140: Current loss = 0.10125415772199631
+Epoch 141: Current loss = 0.10125355422496796
+Epoch 142: Current loss = 0.10125302523374557
+Epoch 143: Current loss = 0.10125254094600677
+Epoch 144: Current loss = 0.10125208646059036
+Epoch 145: Current loss = 0.10125170648097992
+Epoch 146: Current loss = 0.10125134140253067
+Epoch 147: Current loss = 0.1012510135769844
+Epoch 148: Current loss = 0.10125071555376053
+Epoch 149: Current loss = 0.10125042498111725
+Epoch 150: Current loss = 0.10125019401311874
+Epoch 151: Current loss = 0.10124997794628143
+Epoch 152: Current loss = 0.10124976187944412
+Epoch 153: Current loss = 0.10124959796667099
+Epoch 154: Current loss = 0.10124943405389786
+Epoch 155: Current loss = 0.10124927014112473
+Epoch 156: Current loss = 0.10124912858009338
+Epoch 157: Current loss = 0.10124900937080383
+Epoch 158: Current loss = 0.10124889761209488
+Epoch 159: Current loss = 0.10124881565570831
+Epoch 160: Current loss = 0.10124872624874115
+Epoch 161: Current loss = 0.10124862939119339
+Epoch 162: Current loss = 0.10124856978654861
+Epoch 163: Current loss = 0.10124849528074265
+Epoch 164: Current loss = 0.10124842822551727
+Epoch 165: Current loss = 0.1012483611702919
+Epoch 166: Current loss = 0.10124833136796951
+Epoch 167: Current loss = 0.10124826431274414
+Epoch 168: Current loss = 0.10124824941158295
+Epoch 169: Current loss = 0.10124819725751877
+Epoch 170: Current loss = 0.10124816745519638
+Epoch 171: Current loss = 0.10124813765287399
+Epoch 172: Current loss = 0.10124810039997101
+Epoch 173: Current loss = 0.10124809294939041
+Epoch 174: Current loss = 0.10124806314706802
+Epoch 175: Current loss = 0.10124804079532623
+Epoch 176: Current loss = 0.10124801099300385
+Epoch 177: Current loss = 0.10124799609184265
+Epoch 178: Current loss = 0.10124797374010086
+Epoch 179: Current loss = 0.10124798119068146
+Epoch 180: Current loss = 0.10124795883893967
+Epoch 181: Current loss = 0.10124792903661728
+Epoch 182: Current loss = 0.10124792903661728
+Epoch 183: Current loss = 0.10124792903661728
+Epoch 184: Current loss = 0.10124789923429489
+Epoch 185: Current loss = 0.1012478917837143
+Epoch 186: Current loss = 0.10124789923429489
+Epoch 187: Current loss = 0.1012478843331337
+Epoch 188: Current loss = 0.10124789923429489
+Epoch 189: Current loss = 0.1012478619813919
+Epoch 190: Current loss = 0.1012478694319725
+Epoch 191: Current loss = 0.1012478694319725
+Epoch 192: Current loss = 0.1012478619813919
+Epoch 193: Current loss = 0.1012478694319725
+Epoch 194: Current loss = 0.10124785453081131
+Epoch 195: Current loss = 0.1012478619813919
+Epoch 196: Current loss = 0.10124785453081131
+Epoch 197: Current loss = 0.10124783962965012
+Epoch 198: Current loss = 0.10124785453081131
+Epoch 199: Current loss = 0.10124783217906952
+
+
+
+----------------------------------------------------------------------------------------
+Quadratic Equation Output
+----------------------------------------------------------------------------------------
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓
+┃ Layer (type)                         ┃ Output Shape                ┃         Param # ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩
+│ input_x (InputLayer)                 │ (None, 1)                   │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ poly_features (Lambda)               │ (None, 3)                   │               0 │
+├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤
+│ poly_dense (Dense)                   │ (None, 1)                   │               3 │
+└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘
+ Total params: 3 (12.00 B)
+ Trainable params: 3 (12.00 B)
+ Non-trainable params: 0 (0.00 B)
+4/4 ━━━━━━━━━━━━━━━━━━━━ 0s 17ms/step
+
+True Equation:     y = 5x² + 4x + 3
+Learned Equation:  y = 4.9964x² + 3.9240x + 3.1250
+RMSE: 1.869967
+Epochs Trained: 93
+
+Summary:
+- Learning rate: 0.05
+- Total weights: 3 (a, b, c)
+- RMSE: 1.869967 → Lower is better
+Try tweaking learning rate or noise scale to get even better convergence!
